@@ -48,4 +48,12 @@ Git & Github Tutorial for Beginners (https://www.youtube.com/watch?v=3RjQznt-8kE
   - merging branch files to the master branch (git merge <branch name>)
   - fix conflicts
   - Explanation of Github
-  - 
+  - Create a Github first then clone to your computer/local machine
+  - created a public repo on my account named (Git & GitHub Tutorial for Beginners)
+  - pushing the tutorial repository to the remote repo (git push <URL to push> <what branch to push>)
+  - shortening the git repository you are trying to push to (git remote add <alias> <URL to push>)
+  - cloning a repository (git clone <url>)
+  - getting alias (git remote -v)
+  - getting the updated list (git checkout <branch>)
+  - pulling the updated list (git pull <alias> <branch>)
+  - creating a new branch from the master branch (git checkout -b <branch name>)
